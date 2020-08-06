@@ -1,2 +1,0 @@
-This is a basic api I created that contains some CRUD operations for a few different models. 
-This is the first API I have ever created, it uses a service called Swagger for the documentation/front end that allows for testing of the api.
